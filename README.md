@@ -1,4 +1,4 @@
-# Hipodrom Cepte
+# Atistik
 
 Yarış atı istatistikleri mobil uygulaması - Flutter ile geliştirilmiştir.
 
